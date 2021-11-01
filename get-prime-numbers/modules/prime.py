@@ -13,7 +13,7 @@ def get_prime_numbers(list_amount=10):
     
     prime_list = []
     num = 1
-    while len(prime_list) <= list_amount:
+    while len(prime_list) < list_amount:
         if is_prime(num):
             prime_list.append(num)
         num += 1

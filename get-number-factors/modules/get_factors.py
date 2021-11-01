@@ -29,4 +29,3 @@ def get_factors(num):
         i += 1
 
     return sorted(factor_list)
-
