@@ -1,0 +1,8 @@
+
+___________________________________ Welcome ___________________________________
+
+This Python 3 program receives from you a number and returns a list of the
+factors of that number.
+
+Press enter to continue or type "exit" to close the program.
+_______________________________________________________________________________
